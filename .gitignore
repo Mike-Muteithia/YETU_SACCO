@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+
+# Environment Variables
+.env
+
+# Database files
+*.db
+*.sqlite3
+yetu_sacco.db
+
+# VS Code specific files
+.vscode/
+
+# OS generated files
+Thumbs.db
+.DS_Store
